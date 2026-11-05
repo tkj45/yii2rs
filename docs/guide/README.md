@@ -17,6 +17,7 @@ Getting Started
 ---------------
 
 * [Installation](start-installation.md)
+* [Menyiapkan database dan login pengguna SIMRS](start-database-and-login.md)
 * [Difference from basic project template](start-comparison.md)
 * [Configuring Composer](start-composer.md)
 * [Running Tests](start-testing.md)
